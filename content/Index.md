@@ -9,7 +9,6 @@ Find out more: [[Blog]]
 
 ---
 # Resume
-PLEASE HIRE ME 😭
 [[Resume]]
 
 ---
@@ -21,8 +20,4 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-a-bauer/)
 Email: [Jacob@Hexadual.io](mailto:Jacob@hexadual.io)
 
 GitHub: [Hexadual](https://github.com/Hexadual)
-
-
-
-
 
