@@ -4,7 +4,7 @@ Hello, my name is Jacob and I am a Senior @ Purdue University studying cybersecu
 
 ---
 # Current Projects
-I am always working on something! 
+I am always working on something!!
 Find out more: [[Blog]]
 
 ---
