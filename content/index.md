@@ -1,6 +1,6 @@
 # Welcome
 Hello, my name is Jacob and I am a Senior @ Purdue University studying cybersecurity and love all things technology. I love learning something new everyday. In my spare time, I work on applying the concepts I have learned in class to my homelab. 
-![[me2.jpg|400]]
+![[me2.jpg| 400]]
 
 ---
 # Current Projects

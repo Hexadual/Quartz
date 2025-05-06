@@ -1,5 +1,5 @@
 ![[Jacob Bauer Resume.pdf]]
 
-> [!warning] PLEASE!!!
-> HIRE ME! HIRE ME! HIRE ME! HIRE ME! HIRE ME! HIRE ME! HIRE ME! HIRE ME! 
+> [!info] 
+> Resume last updated 3/15/25
 
