@@ -1,5 +1,6 @@
 # Welcome
-Hello, my name is Jacob and I am a Senior @ Purdue University studying cybersecurity and love all things technology. I love learning something new everyday. In my spare time, I work on applying the concepts I have learned in class to my homelab. 
+**Hi, I'm Jacob — a recent Purdue University graduate with a degree in Cybersecurity.**  
+I'm passionate about technology, lifelong learning, and applying what I learn to real-world projects in my homelab. This site is where I share my thoughts, experiments, and experience—both academic and hands-on.
 ![[me2.jpg| 400]]
 
 ---
@@ -8,13 +9,12 @@ I am always working on something!!
 Find out more: [[Blog]]
 
 ---
-# Resume
-[[Resume]]
+# My Resume
+Curious about my background, skills, or experience?
+Check out my [[Resume]].
 
 ---
 # Contact Me
-Resume: [[Resume]]
-
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-a-bauer/)
 
 Email: [Jacob@Hexadual.io](mailto:Jacob@hexadual.io)

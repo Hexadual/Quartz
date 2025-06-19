@@ -1,5 +1,5 @@
-![[Jacob Bauer Resume.pdf]]
+![[jacob-bauer.pdf]]
 
 > [!info] 
-> Resume last updated 3/15/25
+> Resume last updated 6/20/25
 

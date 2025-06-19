@@ -1,4 +1,4 @@
-`8/23/2024` 
+`4/23/2025` 
 Over the Summer I managed to buy 10 more hard drives (WD Red Plus's). Each one was 10TB and was going to be installed into my NAS. This was a much needed upgrade as I was completely out of storage 
 
 ---
