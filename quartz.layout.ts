@@ -38,7 +38,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    // Modified Component.Explorer for defaultContentPageLayout
+    Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["blog posts"]) // Ensure "blog posts" is lowercase here
+        return !omit.has(node.displayName.toLowerCase())
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -47,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -62,7 +68,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // Modified Component.Explorer for defaultListPageLayout
+    Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["blog posts"]) // Ensure "blog posts" is lowercase here
+        return !omit.has(node.displayName.toLowerCase())
+      },
+    }),
   ],
   right: [],
 }

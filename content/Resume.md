@@ -1,5 +1,5 @@
 ![[jacob-bauer.pdf]]
 
 > [!info] 
-> Resume last updated 6/20/25
+> Resume last updated 6/24/25
 
