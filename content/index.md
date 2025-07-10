@@ -6,11 +6,13 @@ I'm passionate about technology, lifelong learning, and applying what I learn to
 ---
 # Current Projects
 I am always working on something!
+
 **Find out more: [[Blog]]**
 
 ---
 # My Resume
 Curious about my background, skills, or experience?
+
 **Check out my [[Resume]].**
 
 ---
@@ -25,3 +27,11 @@ Curious about my background, skills, or experience?
 # Check out my services
 **[[Services]]**
 **[Status Page](https://status.hexadual.io/status/1)**
+
+---
+# Check out what I've been listening to
+<a href="https://www.last.fm/user/personman20">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=personman20"
+       width="350px"
+       style="display: block; margin: 0 auto;" />
+</a>
