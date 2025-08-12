@@ -1,4 +1,4 @@
-I am always working on something! Whether that be school, or one of my many personal projects. 
+I'm always working on something! 
 
 ---
 # [[Covid Epoch Time]]

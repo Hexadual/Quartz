@@ -26,7 +26,8 @@ Curious about my background, skills, or experience?
 ---
 # Check out my services
 **[[Services]]**
-**[Status Page](https://status.hexadual.io/status/1)**
+
+Or check the statuses with the **[Status Page](https://status.hexadual.io/status/1)**
 
 ---
 # Check out what I've been listening to

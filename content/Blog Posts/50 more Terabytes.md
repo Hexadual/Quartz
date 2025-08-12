@@ -15,4 +15,4 @@ The fun was not over that easily! After finishing everything that needed to be d
 ![[NAS FANS.png]]
 *Figure 2: Hard Drive temps before and after the cooling fan*
 
-So morale of the story to always install fans in a server.
+So morale of the story is to always install fans in a server.
