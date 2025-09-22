@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      LinkedIn: "https://www.linkedin.com/in/jacob-a-bauer/",
+      "Status Page": "https://status.hexadual.io/status/1",
     },
   }),
 }
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Modified Component.Explorer for defaultContentPageLayout
     Component.Explorer({
       filterFn: (node) => {
-        const omit = new Set(["blog posts"]) // Ensure "blog posts" is lowercase here
+        const omit = new Set(["blog posts", "homelab posts"]) // Ensure "blog posts" is lowercase here
         return !omit.has(node.displayName.toLowerCase())
       },
     }),

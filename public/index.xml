@@ -6,47 +6,65 @@
       <description>Last 10 notes on Jacob Bauer</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Welcome Hi, I’m Jacob — a recent Purdue University graduate with a degree in Cybersecurity.</description>
-    <pubDate>Thu, 10 Jul 2025 20:43:48 GMT</pubDate>
+    <title>Stop link rot with Linkwarden</title>
+    <link>https://quartz.jzhao.xyz/Blog-Posts/Stop-link-rot-with-Linkwarden</link>
+    <guid>https://quartz.jzhao.xyz/Blog-Posts/Stop-link-rot-with-Linkwarden</guid>
+    <description>9/22/2025 TLDR: Linkwarden preserves your bookmarks into its database so that even if its deleted you still have a copy.</description>
+    <pubDate>Mon, 22 Sep 2025 18:05:09 GMT</pubDate>
+  </item><item>
+    <title>Homelab</title>
+    <link>https://quartz.jzhao.xyz/Homelab</link>
+    <guid>https://quartz.jzhao.xyz/Homelab</guid>
+    <description>Introduction Last updated on: 9/18/2025 I have been tinkering with my homelab since 2017 when over that summer I built a new computer.</description>
+    <pubDate>Fri, 19 Sep 2025 00:51:44 GMT</pubDate>
+  </item><item>
+    <title>Projects &amp; Experiments</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Projects--and--Experiments</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Projects--and--Experiments</guid>
+    <description>This page is almost redundant due to the fact that I discuss in great detail my projects and experiments on the Blog section of this site.</description>
+    <pubDate>Fri, 19 Sep 2025 00:50:43 GMT</pubDate>
+  </item><item>
+    <title>Automation &amp; Scripting</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Automation--and--Scripting</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Automation--and--Scripting</guid>
+    <description>Tock Archivist 9/18/2025 A few years ago I found an amazing project on GitHub called Tube Archivist.</description>
+    <pubDate>Fri, 19 Sep 2025 00:29:49 GMT</pubDate>
+  </item><item>
+    <title>Core Services</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Core-Services</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Core-Services</guid>
+    <description>The purpose of this page is for me to discuss the services that I have deployed and are now a critical part of my daily life.</description>
+    <pubDate>Fri, 19 Sep 2025 00:24:55 GMT</pubDate>
+  </item><item>
+    <title>Infrastructure Overview</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Infrastructure-Overview</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Infrastructure-Overview</guid>
+    <description>This page discusses the hardware (servers, storage, networking gear, virtualization hosts), Virtualization (VMware, Proxmox, Hyper-V, Docker, Kubernetes), Storage (RAID/ZFS, NAS, backup strategy), and Networking (firewalls, VLANs, NAT, VPN, reverse proxy).</description>
+    <pubDate>Fri, 19 Sep 2025 00:06:41 GMT</pubDate>
+  </item><item>
+    <title>Challenges &amp; Lessons Learned</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Challenges--and--Lessons-Learned</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Challenges--and--Lessons-Learned</guid>
+    <description>I have been tinkering with my server since 2017. In that time I have learned a lot of lessons the hard way.</description>
+    <pubDate>Thu, 18 Sep 2025 23:55:46 GMT</pubDate>
+  </item><item>
+    <title>Homelab Evolution</title>
+    <link>https://quartz.jzhao.xyz/Homelab-Posts/Homelab-Evolution</link>
+    <guid>https://quartz.jzhao.xyz/Homelab-Posts/Homelab-Evolution</guid>
+    <description></description>
+    <pubDate>Wed, 17 Sep 2025 19:41:57 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://quartz.jzhao.xyz/Blog</link>
     <guid>https://quartz.jzhao.xyz/Blog</guid>
-    <description>I’m always working on something! Covid Epoch Time Track the passage of time since the start of the COVID-19 pandemic Accessing all my files from every device I made a solution that allows me to access all my files anywhere without using the cloud.</description>
-    <pubDate>Wed, 25 Jun 2025 06:09:49 GMT</pubDate>
+    <description>I’m always working on something! Covid Epoch Time 6/24/2025 Track the passage of time since the start of the COVID-19 pandemic Accessing all my files from every device 6/19/2025 I made a solution that allows me to access all my files anywhere without using the cloud.</description>
+    <pubDate>Tue, 12 Aug 2025 23:19:07 GMT</pubDate>
   </item><item>
     <title>Resume</title>
     <link>https://quartz.jzhao.xyz/Resume</link>
     <guid>https://quartz.jzhao.xyz/Resume</guid>
-    <description> Info Resume last updated 8/12/25 Download .</description>
-    <pubDate>Wed, 25 Jun 2025 06:09:49 GMT</pubDate>
-  </item><item>
-    <title>Services</title>
-    <link>https://quartz.jzhao.xyz/Services</link>
-    <guid>https://quartz.jzhao.xyz/Services</guid>
-    <description>File Share Quickly send and embed small files YouTube Archive YouTube Video Archive Slop Toob Live TV but its all slop File Drive Backup storage for files Live Stream The stream may break but the fun is guaranteed!! COVID Epoch Time Seconds since March 13, 2020 Food Database Find out what I’m cooing...</description>
-    <pubDate>Wed, 25 Jun 2025 06:09:49 GMT</pubDate>
-  </item><item>
-    <title>50 more Terabytes</title>
-    <link>https://quartz.jzhao.xyz/Blog-Posts/50-more-Terabytes</link>
-    <guid>https://quartz.jzhao.xyz/Blog-Posts/50-more-Terabytes</guid>
-    <description>4/23/2025 TLDR: Over the Summer I managed to buy 10 more hard drives (WD Red Plus’s). Each one was 10TB and was going to be installed into my NAS.</description>
-    <pubDate>Wed, 25 Jun 2025 06:09:49 GMT</pubDate>
-  </item><item>
-    <title>Covid Epoch Time</title>
-    <link>https://quartz.jzhao.xyz/Blog-Posts/Covid-Epoch-Time</link>
-    <guid>https://quartz.jzhao.xyz/Blog-Posts/Covid-Epoch-Time</guid>
-    <description>6/24/2025 TDLR: I made a website that tracks the seconds since the day school shut down for COVID-19 in Illinois.</description>
-    <pubDate>Wed, 25 Jun 2025 06:09:49 GMT</pubDate>
-  </item><item>
-    <title>Accessing all my files from every device</title>
-    <link>https://quartz.jzhao.xyz/Blog-Posts/Accessing-all-my-files-from-every-device</link>
-    <guid>https://quartz.jzhao.xyz/Blog-Posts/Accessing-all-my-files-from-every-device</guid>
-    <description>6/19/2025 TLDR: I used Synching to backup and sync all my files across 3 states and 4 devices.</description>
-    <pubDate>Thu, 19 Jun 2025 22:40:47 GMT</pubDate>
+    <description> Info Resume last updated 8/12/25 Download Certifications Artificial Intelligence Fundamentals Summary This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural n...</description>
+    <pubDate>Tue, 12 Aug 2025 23:19:07 GMT</pubDate>
   </item>
     </channel>
   </rss>

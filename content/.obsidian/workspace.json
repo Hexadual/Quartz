@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b6a7085b886f65bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a21f19392a6c7025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6362be07cf679dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d0c33d5b5d74d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f5f1e69770d80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0d334b7afed64a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f65ed1255e19524",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7143b961c89b7a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "204fc68b1994f7d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae2cde0b08fd55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71fd9c446e42579",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1321720fefa6a2ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "35fd56a95f99824d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog Posts/More Pi Please.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for More Pi Please"
+            }
+          },
+          {
+            "id": "74f7574d2eb05bf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blog Posts/More Pi Please.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from More Pi Please"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6362be07cf679dd",
+  "lastOpenFiles": [
+    "Blog Posts/Stop link rot with Linkwarden.md",
+    "Blog.md",
+    "Blog Posts/Accessing all my files from every device.md",
+    "Blog Posts/Covid Epoch Time.md",
+    "Blog Posts/More pi please.md",
+    "Blog Posts/50 More terabytes.md",
+    "Homelab Posts/Projects & Experiments.md",
+    "Homelab Posts/Infrastructure Overview.md",
+    "Images/da7bb7d2-630d-4ab5-95ab-a7459c12f220_500x286.gif",
+    "Homelab Posts/Automation & Scripting.md",
+    "Services.md",
+    "Resume.md",
+    "index.md",
+    "Homelab.md",
+    "Homelab Posts/Challenges & Lessons Learned.md",
+    "Images/404.gif",
+    "Homelab Posts/Homelab Evolution.md",
+    "Homelab Posts/Core Services.md",
+    "Images/reverse_proxy_flow.png",
+    "().md",
+    "Images/AI.png",
+    "Images/jacob-bauer.pdf",
+    "Images/me2.jpg",
+    "Images/NAS FANS.png",
+    "Images/Pasted image 20250619165830.png",
+    "Images/photo_2025-04-26_17-00-49.jpg",
+    "Images/photo_2025-09-16_23-13-16.jpg",
+    "Images/photo_2025-09-16_23-13-19.jpg",
+    "Homelab Posts/Lober.md",
+    "Homelab Posts",
+    "Homelab Posts/Where it all started.md",
+    "Homelab Posts",
+    "Music.md",
+    "Slop.hexadual.io.md",
+    "Images/Jacob Bauer Resume.pdf",
+    "Images/Stakeholders Sheet.pdf",
+    "Images/Purdue.pdf",
+    "Images/podcast.pdf",
+    "Images/Did We Really Land on the Moon.pdf",
+    "Projects/What we can learn from conspiracy theories.md",
+    "Projects/The Worlds Most Powerful Minecraft Computer.md",
+    "Projects/Statecraft.md",
+    "Projects/Stakeholders Sheet.md"
+  ]
+}

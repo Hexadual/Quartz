@@ -1,0 +1,1 @@
+This page is almost redundant due to the fact that I discuss in great detail my projects and experiments on the [[Blog]] section of this site. So go check it out. 

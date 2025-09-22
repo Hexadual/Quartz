@@ -1,13 +1,13 @@
 # Welcome
 **Hi, I'm Jacob — a recent Purdue University graduate with a degree in Cybersecurity.**  
-I'm passionate about technology, lifelong learning, and applying what I learn to real-world projects in my homelab. This site is where I share my thoughts, experiments, and experience—both academic and hands-on.
+I'm passionate about technology, lifelong learning, and applying what I learn to real-world projects in my homelab. This site is where I share my thoughts, experiments, and experience—both academic and hands-on. 
 ![[me2.jpg | 400]]
 
 ---
 # Current Projects
 I am always working on something!
 
-**Find out more: [[Blog]]**
+Find out more on my **[[Blog]]** or check out my **[[Homelab]]** documentation.
 
 ---
 # My Resume
@@ -17,17 +17,13 @@ Curious about my background, skills, or experience?
 
 ---
 # Contact Me
-**[LinkedIn](https://www.linkedin.com/in/jacob-a-bauer/)**
+On **[LinkedIn](https://www.linkedin.com/in/jacob-a-bauer/)**
 
-**Email: [Jacob@Hexadual.io](mailto:Jacob@hexadual.io)**
-
-**GitHub: [Hexadual](https://github.com/Hexadual)**
+**or by email: [Jacob@Hexadual.io](mailto:Jacob@hexadual.io)**
 
 ---
-# Check out my services
-**[[Services]]**
-
-Or check the statuses with the **[Status Page](https://status.hexadual.io/status/1)**
+# Check out my [[Services]]
+Or check if something is wrong with the **[Status Page](https://status.hexadual.io/status/1)**
 
 ---
 # Check out what I've been listening to
